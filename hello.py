@@ -6,7 +6,7 @@ print('Addition of two numbers:' ,a+b)
 print('Subtraction of two numbers:' ,a-b)
 print('Multiplication of two numbers:' ,a*b)
 print('Division of two nmubers:' ,a/b)
-print('Reminder of two nmubers:' ,a%b)
+print('Reminder of two numb:' ,a%b)
 print('Exponent of two numbers:' ,a**b)
 print('Floor division of two numbers:' ,a//b)
 MultipleOperators = 1 + 2 * 3 / 4.0
@@ -16,18 +16,17 @@ print("Result of MultipleOperators is: ",MultipleOperators)
 c= a**b-7
 print(c)
 
-a=b: False
-a+=b: 38
-a-=b: 26
-a*=b: 192
-a%=b: 2
-a**=b: 1073741824below:
-a//=b: 5
-j is :  10
-j is :  5
-k is :  5
-j is :  10
-k is :  10
+a=b;False
+a+=b;38
+a-=b;26
+a*=b;192
+a%=b;2
+a**=b;1073741824
+below; 
+a//=b;5
+#j is; 10
+#k is; 5
+#k is;10
 
 
 a = 32      # Initialize the value of a  
@@ -311,4 +310,25 @@ True
 True
 False
 
+age = int(input("Enter your age: "))
+if age >= 18: 
+    print("You are now signed up!")
 
+else: 
+    print("You must be 18+ to sign up")
+
+
+
+
+
+
+
+
+
+
+
+
+    # create a dictionary for a person 
+    person = {}
+    
+    # ask the user for information and store it in the dictionary 
